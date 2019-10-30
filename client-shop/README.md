@@ -1,4 +1,4 @@
-﻿
+﻿本项目出自：https://github.com/lyh2606179909/shop
 
 vue2.5 + vuex + vue-router + webpack + ES6/7 + fetch + sass + flex + svg
 
